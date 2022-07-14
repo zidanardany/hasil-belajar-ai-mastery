@@ -1,6 +1,6 @@
-Hi, ini merupakan kumpulan kode dan dataset yang digunakan dalam pembelajaran AI dari dasar.
+Repository ini adalah tempat untuk berbagi source code hasil belajar saya di program studi independen AI Mastery
 
-Kode bukan untuk dihafal, melainkan di pahami intuisinya secara konsep maupun logika. Teruslah belajar dan mencoba, dan jangan pernah takut untuk salah. Karena belajar tanpa bereksperimen adalah sia-sia.
+untuk mini project yang telah saya pelajari di program ini, dapat dilihat di https://github.com/zidanardany/ai-mastery
 
-Salam,<br>
-Kuncahyo Setyo Nugroho
+Salam, <br>
+Mochammad Zidan Ardany
